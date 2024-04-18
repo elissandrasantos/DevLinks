@@ -8,7 +8,7 @@ function toggleMode() {
   // substituir a imagem
   if (html.classList.contains("light")) {
     // se tiver light mode, adicionar a imagem light
-    img.setAttribute("src", "./assets/avatar-light.png")
+    img.setAttribute("src", "./assets/avatar-light.png"),
     img.setAttribute(
       "alt",
       "Foto de Elissandra de cabelos ondulados e óculos escuros."
@@ -16,7 +16,7 @@ function toggleMode() {
 
   } else {
     // se tiver sem light mode, manter a iamgem normal
-    img.setAttribute("src", "./assets/avatar.png")
+    img.setAttribute("src", "./assets/avatar.png"),
     img.setAttribute(
       "alt",
       "Foto de Elissandra de cabelos escovados, maquiagem leve e sorrindo."
