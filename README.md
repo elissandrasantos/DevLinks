@@ -12,14 +12,14 @@ Projeto de perfil desenvolvido como processo de aprendizagem de desenvolvimento 
 </p>
 
 <p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
+
+<p align="center">
   <img alt="License" src="https://i.ibb.co/55njZCk/screencapture-127-0-0-1-5500-index-html-2024-04-18-15-59-25.png" >
 </p>
 
 <br>
-
-<p align="center">
-  <img alt="Projeto DevLinks" src=".github/preview.jpg" width="100%">
-</p>
 
 ## 🚀 Tecnologias
 
