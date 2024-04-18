@@ -12,6 +12,6 @@ function toggleMode() {
 
   } else {
     // se tiver sem light mode, manter a iamgem normal
-    img.setAttribute("src", "./assets/avatar.png")
+    img.setAttribute("src", "https://i.ibb.co/dGD50Z5/avatar.png")
   }
 }
